@@ -1,1 +1,1 @@
-livelink: https://doctors-portal00.web.app/
+livelink: https://doctors-portal00.firebaseapp.com/
